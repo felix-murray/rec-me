@@ -1,0 +1,9 @@
+.Recorder {
+    display: flex;
+    justify-content: center;
+    padding-top: 48px;
+}
+
+.Recorder > * {
+    margin-right: 12px;
+}

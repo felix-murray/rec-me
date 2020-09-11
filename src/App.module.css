@@ -1,0 +1,17 @@
+.App {
+}
+
+.audiosWrapper {
+    padding-top: 24px;
+    margin: 0 auto;
+    max-width: 450px;
+}
+
+.audios {
+    display: flex;
+    flex-direction: column;
+}
+
+.audios > * {
+    margin-bottom: 16px;
+}
